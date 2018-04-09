@@ -53,7 +53,7 @@ module GitStats
         {
             general: 'general.html',
             activity: 'activity/by_date.html',
-            authors: 'authors/lge_authors.html',
+            authors: 'authors/company_authors.html',
         }
       end
 
